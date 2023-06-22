@@ -8,6 +8,8 @@ Ulaşmak için :
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
 [![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=E&logoColor=white)](https://enesaks.github.io)
 
+![snake gif](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
