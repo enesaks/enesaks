@@ -1,8 +1,3 @@
-<p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenesaks%2F&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23DFDFDF&title=hits&edge_flat=false"/></a>
-</p>
-
-
 ### Merhaba! 👋
 
 <h3>Adım Enes ve İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama geliştirme konusuna ilgi duyuyorum ve şu anda bu alanda kendimi geliştirmeye odaklanıyorum. Ayrıca, diğer programlama dillerini de öğrenmek için Udemy, YouTube, BTK gibi kaynaklardan faydalanarak kendimi geliştirmeye çalışıyorum.</h3>
