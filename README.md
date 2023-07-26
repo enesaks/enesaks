@@ -13,3 +13,4 @@ Ben Enes, İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiy
 
 ![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake.svg)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesaks&layout=compact)
