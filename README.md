@@ -11,5 +11,5 @@ Ben Enes, İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiy
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/enes_aks29?hr_r=1)
 
 
-![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake.svg)
 
