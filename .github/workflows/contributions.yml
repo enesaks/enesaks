@@ -1,4 +1,4 @@
-name: GitHub Contributions
+name: GitHub Contributions Snake Game
 
 on:
   push:
@@ -15,15 +15,15 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Python sürümünüzü belirtin
+        python-version: '3.x'  # Python sürümünüzü belirtin (Python 3.x önerilir)
 
     - name: Install dependencies
-      run: pip install -r requirements.txt  # Eğer gereken bir requirements.txt dosyanız varsa burada belirtin.
+      run: pip install snakeware  # snakeware paketini yükleyin
 
-    - name: Generate GitHub Contributions
+    - name: Generate GitHub Contributions Snake Game
       uses: Platane/snk@v3
       with:
-        github_user_name: ${{ github.repository_owner }}
+        github_user_name: enesaks  # GitHub kullanıcı adınızı burada düzenleyin
         outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
