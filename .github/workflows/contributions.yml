@@ -1,0 +1,33 @@
+name: GitHub Contributions
+
+on:
+  push:
+    branches:
+      - main  # Ana dal adınızı değiştirin (varsayılan olarak main)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Python sürümünüzü belirtin
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt  # Eğer gereken bir requirements.txt dosyanız varsa burada belirtin.
+
+    - name: Generate GitHub Contributions
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
