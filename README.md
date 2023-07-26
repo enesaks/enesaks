@@ -8,7 +8,6 @@ Ben Enes, İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiy
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en29ak@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
 [![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=E&logoColor=white)](https://enesaks.github.io)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/enes_aks29?hr_r=1)
 
 
 ![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake.svg)
