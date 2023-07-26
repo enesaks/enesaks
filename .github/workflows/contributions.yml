@@ -1,4 +1,4 @@
-name: GitHub Contributions Snake Game
+name: Generate Snake Game from GitHub Contribution Grid
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
       run: pip install snakeware  # snakeware paketini yükleyin
 
     - name: Generate GitHub Contributions Snake Game
-      uses: Platane/snk@v3
+      uses: Platane/snk@v3.0.0
       with:
         github_user_name: enesaks  # GitHub kullanıcı adınızı burada düzenleyin
         outputs: |
