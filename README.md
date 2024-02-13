@@ -16,6 +16,6 @@
   <img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" alt="Patika Academy" width="35px" height="35px">
 </a>
 
-![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake-dark.svg)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesaks&layout=compact)
