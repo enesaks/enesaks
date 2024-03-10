@@ -2,7 +2,7 @@
 
 
   <strong>Ben Enes, İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. 
-  Mobil uygulama geliştirme ,Java Backend alanlarla ilgileniyor ve kendimi bu alanlarda geliştirmeye çalışıyorum. 
+  Mobil uygulama geliştirme ,Java, C# Web Backend alanlarla ilgileniyor ve kendimi bu alanlarda geliştirmeye çalışıyorum. 
   Ayrıca, diğer programlama dillerini de öğrenmek için Udemy, YouTube, BTK gibi kaynaklardan faydalanarak kendimi geliştirmeye çalışıyorum.</strong>
 
 
