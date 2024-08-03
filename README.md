@@ -7,12 +7,16 @@ Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında .N
 
 **Benimle iletişime geçmek için:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-aksu-66b28b220/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en29ak@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
+### Web Sitem :
 <a href="https://enesaks.github.io">
   <img src="https://github.com/user-attachments/assets/c34c304b-32ba-4f2d-98ec-f647a1a5ec36" alt="Web Sitesi" style="width: 35px; height: auto;">
 </a>
+
+### Sosyal Medya Hesaplarım :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-aksu-66b28b220/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en29ak@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
+
 
 
 
