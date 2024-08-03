@@ -1,9 +1,8 @@
 ### Merhaba! 👋
 
 
-  <strong>Ben Enes, İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. 
-  Mobil uygulama geliştirme ,Java, C# Web Backend alanlarla ilgileniyor ve kendimi bu alanlarda geliştirmeye çalışıyorum. 
-  Ayrıca, diğer programlama dillerini de öğrenmek için Udemy, YouTube, BTK gibi kaynaklardan faydalanarak kendimi geliştirmeye çalışıyorum.</strong>
+  <strong>Merhaba, ben Enes! 2002'de İstanbul’da doğdum. Küçüklüğümden beri bilgisayarlara büyük bir ilgi duydum. Şu anda İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve yazılım dünyasında kendimi sürekli geliştirmek için çalışıyorum. Özellikle web backend geliştirme alanına büyük bir ilgi duyuyorum. Bu alanda, hem akademik çalışmalarım hem de kişisel projelerim aracılığıyla bilgi birikimimi artırmaya devam ediyorum.\
+Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında .NET Core, C#, Java, Kotlin, Python ve SQL bulunuyor. Özellikle .NET Core ile modern ve performanslı web uygulamaları geliştirme konusunda önemli deneyimlere sahibim.</strong>
 
 
 **Benimle iletişime geçmek için:**
@@ -11,9 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-aksu-66b28b220/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:en29ak@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
-[![Web Sitesi](https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=E&logoColor=white)](https://enesaks.github.io)
-<a href="https://academy.patika.dev/tr/@enesaks">
-  <img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" alt="Patika Academy" width="35px" height="35px">
+<a href="https://enesaks.github.io">
+  <img src="https://github.com/user-attachments/assets/c34c304b-32ba-4f2d-98ec-f647a1a5ec36" alt="Web Sitesi" style="width: 35px; height: auto;">
 </a>
+
+
+
+
 
 ![GitHub Contribution Graph (Dark)](https://github.com/enesaks/enesaks/blob/output/github-contribution-grid-snake-dark.svg)
