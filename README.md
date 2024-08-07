@@ -12,11 +12,14 @@ Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında .N
   <img src="https://github.com/user-attachments/assets/c34c304b-32ba-4f2d-98ec-f647a1a5ec36" alt="Web Sitesi" style="width: 35px; height: auto;">
 </a>
 
+### Medium Yazılarım :
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@enesaks)
+
 ### Sosyal Medya Hesaplarım :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-aksu-66b28b220/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesaksu3429@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=whit)](https://www.instagram.com/enes.aks29) 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@enesaks)
+
 
 
 
