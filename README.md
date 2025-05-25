@@ -8,7 +8,7 @@ Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında .N
 **Benimle iletişime geçmek için:**
 
 ### Web Sitem :
-<a href="https://enesaks.github.io">
+<a href="https://www.enesaks.com/">
   <img src="https://github.com/user-attachments/assets/c34c304b-32ba-4f2d-98ec-f647a1a5ec36" alt="Web Sitesi" style="width: 35px; height: auto;">
 </a>
 
