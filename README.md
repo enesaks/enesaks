@@ -1,8 +1,11 @@
 ### Merhaba! 👋
 
 
-  <strong>Merhaba, ben Enes! 2002'de İstanbul’da doğdum. Küçüklüğümden beri bilgisayarlara büyük bir ilgi duydum. Şu anda İzzet Baysal Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve yazılım dünyasında kendimi sürekli geliştirmek için çalışıyorum. Özellikle web backend geliştirme alanına büyük bir ilgi duyuyorum. Bu alanda, hem akademik çalışmalarım hem de kişisel projelerim aracılığıyla bilgi birikimimi artırmaya devam ediyorum.\
-Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında .NET Core, C#, Java, Kotlin, Python ve SQL bulunuyor. Özellikle .NET Core ile modern ve performanslı web uygulamaları geliştirme konusunda önemli deneyimlere sahibim.</strong>
+  <strong>Yazılım geliştirme ve sistem operasyonları arasında köprü kuran, CI/CD süreçleri, container teknolojileri ve otomasyon konularına odaklanan bir DevOps mühendisi adayıyım.
+
+C#, ASP.NET ve Microsoft SQL Server gibi teknolojilerde sağlam bir temel oluşturdum. Bilsoft Yazılım'da stajyer olarak çalışarak .NET tabanlı proje geliştirme süreçlerine katkıda bulundum ve ekiplerle işbirliği yaparak becerilerimi güçlendirdim. 
+
+Ayrıca, C# ve ASP.NET eğitimleriyle yazılım geliştirme becerilerimi ileri seviyeye taşıdım. Sorun giderme ve devreye alma konularındaki yetkinliğimle, yazılım projelerinde karşılaşılan teknik zorluklara çözüm bulmaya odaklanıyorum.</strong>
 
 
 **Benimle iletişime geçmek için:**
